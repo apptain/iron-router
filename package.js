@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'Routing specifically designed for Meteor',
-  version: "1.0.3",
-  git: "https://github.com/eventedmind/iron-router"
+  version: "1.0.3-multi",
+  git: "https://github.com/apptain/iron-router"
 });
 
 Npm.depends({
